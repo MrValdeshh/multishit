@@ -20,7 +20,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/\MrValdez/Vless"
+          "path": "/MrValdez/Vless"
         }
       }
     },
@@ -39,7 +39,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/\MrValdez/Vmess"
+          "path": "/MrValdez/Vmess"
         }
       }
     },
@@ -57,7 +57,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/\MrValdez/Trojan"
+          "path": "/MrValdez/Trojan"
         }
       }
     }
